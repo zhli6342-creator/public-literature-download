@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Access Literature Download"
+  short_description: "Download open-access PDFs from metadata queues"
+  default_prompt: "Use $open-access-literature-download to download open-access article PDFs from my DOI metadata file."
